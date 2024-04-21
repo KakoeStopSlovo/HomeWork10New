@@ -1,0 +1,13 @@
+main {
+    min-height: 40vh;
+}
+
+.avatar {
+    min-width: 30vw;
+}
+
+img {
+    max-width: 10rem;
+    border: 0px;
+    border-radius: 150px;
+}
